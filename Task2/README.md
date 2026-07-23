@@ -26,16 +26,16 @@ Revenue throughout this analysis is calculated per order line item as:
 ## SQL Output Screenshots
 
 **Top 10 Products by Revenue**
-![Top products](screenshots/top_products.jpg)
+![Top products](top_products.jpg)
 
 **Top 10 Customers by Revenue**
-![Top customers](screenshots/top_customers.jpg)
+![Top customers](top_customers.jpg)
 
 **Monthly Sales Trend**
-![Monthly trend](screenshots/monthly_trend.jpg)
+![Monthly trend](monthly_trend.jpg)
 
 **Category Performance & Purchase Frequency**
-![Categories and frequency](screenshots/categories_and_frequency.jpg)
+![Categories and frequency](categories_and_frequency.jpg)
 
 ## Key Insights
 
